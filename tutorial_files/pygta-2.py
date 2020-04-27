@@ -28,5 +28,5 @@ def screen_record(print_loop_time = False):
 			cv2.destroyAllWindows()
 			break
 
-screen_record()
+screen_record(print_loop_time = False)
 	
